@@ -9,6 +9,8 @@ If you find our work useful in your research, please consider citing:
   title={Fast Projected Fuzzy Clustering with Anchor Guidance for Multimodal Remote Sensing Imagery},
   author={Zhang, Yongshan and Yan, Shuaikang and Zhang, Lefei and Du, Bo},
   journal={IEEE Transactions on Image Processing},
+  volume={33},
+  pages={4640-4653},
   year={2024},
   publisher={IEEE}
 }
